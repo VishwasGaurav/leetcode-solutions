@@ -1,2 +1,2 @@
 # leetcode-solutions
-My LeetCode solutions in Java and Python
+My 150 days LeetCode solutions in Java
